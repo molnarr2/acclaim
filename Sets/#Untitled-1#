@@ -1,0 +1,20 @@
+    $SELECT
+        stu_acad_rec.earn_hrs,
+        stu_acad_rec.reg_hrs,
+        stu_acad_rec.final
+    INTO
+        $ern_hrs:i_ern_hrs,
+        $reg_hrs:i_reg_hrs,
+        $grd_date:i_grd_date
+    FROM
+        stu_acad_rec
+    WHERE
+        stu_acad_rec.id = $id
+    AND stu_acad_rec.prog = $prog
+    AND stu_acad_rec.sess = $sess
+    AND stu_acad_rec.yr = $year
+    ;
+
+	
+	12:44 PM
+	1:20 PM

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rxml v='2.0'>
+  <stage value='2' />
+  <metaDrawingInfo>
+   <author name="" website="" email="" />
+   <description value="" />
+   <set value="" />
+   <category value="" />
+  </metaDrawingInfo>
+  <design width='100.0' height='100.0'>
+   <layerPool currId='2'>
+    <layer id='2' name='Start' color='-10092442' zDepth='100'>
+     <graphPool>
+      <graph id='1'>
+       <linePool>
+        <vertexPool>
+         <vertex id='11' x='0.7176409' y='17.06524' />
+         <vertex id='12' x='1.3374262' y='11.250048' />
+         <vertex id='13' x='2.4048371' y='2.0259504' />
+         <vertex id='14' x='3.644413' y='11.550833' />
+         <vertex id='15' x='4.2641983' y='16.764458' />
+        </vertexPool>
+        <rmolnar id='11' v1='11' v2='12' c1='11' c2='13' />
+        <rmolnar id='12' v1='12' v2='13' c1='11' c2='14' />
+        <rmolnar id='13' v1='14' v2='12' c1='14' c2='12' />
+        <rmolnar id='14' v1='13' v2='14' c1='12' c2='15' />
+        <rmolnar id='15' v1='14' v2='15' c1='13' c2='15' />
+       </linePool>
+      </graph>
+      <graph id='2'>
+       <linePool>
+        <vertexPool>
+         <vertex id='9' x='8.378326' y='9.311809' />
+         <vertex id='10' x='7.1537013' y='6.5849547' />
+         <vertex id='11' x='6.3973136' y='15.394812' />
+         <vertex id='12' x='8.558416' y='14.555775' />
+        </vertexPool>
+        <bezier id='7' v1='9' v2='10' c1x='8.450361' c1y='6.2703195' c2x='7.874068' c2y='5.431285' />
+        <bezier id='8' v1='10' v2='11' c1x='6.2892623' c1y='8.263021' c2x='5.857042' c2y='12.353312' />
+        <bezier id='9' v1='11' v2='12' c1x='7.189716' c1y='18.855827' c2x='8.270269' c2y='17.492395' />
+       </linePool>
+      </graph>
+      <graph id='3'>
+       <linePool>
+        <vertexPool>
+         <vertex id='9' x='12.268303' y='9.206937' />
+         <vertex id='10' x='11.043684' y='6.480076' />
+         <vertex id='11' x='10.287296' y='15.28993' />
+         <vertex id='12' x='12.448395' y='14.450899' />
+        </vertexPool>
+        <bezier id='7' v1='9' v2='10' c1x='12.34034' c1y='6.165437' c2x='11.764048' c2y='5.326402' />
+        <bezier id='8' v1='10' v2='11' c1x='10.179243' c1y='8.158143' c2x='9.747019' c2y='12.248436' />
+        <bezier id='9' v1='11' v2='12' c1x='11.0797' c1y='18.750946' c2x='12.160254' c2y='17.387524' />
+       </linePool>
+      </graph>
+      <graph id='4'>
+       <linePool>
+        <vertexPool>
+         <vertex id='7' x='17.202826' y='8.158143' />
+         <vertex id='8' x='18.931698' y='8.367903' />
+         <vertex id='9' x='19.435953' y='17.597277' />
+        </vertexPool>
+        <bezier id='5' v1='7' v2='8' c1x='17.38291' c1y='5.1166434' c2x='18.679565' c2y='4.382489' />
+        <bezier id='6' v1='8' v2='9' c1x='18.931694' c1y='16.758245' c2x='18.787626' c2y='16.653362' />
+       </linePool>
+      </graph>
+      <graph id='5'>
+       <linePool>
+        <vertexPool>
+         <vertex id='9' x='18.931696' y='15.70945' />
+         <vertex id='10' x='16.734581' y='16.12897' />
+         <vertex id='11' x='17.563004' y='11.933796' />
+         <vertex id='12' x='18.967716' y='10.360608' />
+        </vertexPool>
+        <bezier id='7' v1='9' v2='10' c1x='17.85115' c1y='17.807037' c2x='17.38291' c2y='18.121675' />
+        <bezier id='8' v1='10' v2='11' c1x='16.554491' c1y='13.19235' c2x='16.626526' c2y='12.458194' />
+        <bezier id='9' v1='11' v2='12' c1x='18.571516' c1y='10.989883' c2x='18.571516' c2y='10.989883' />
+       </linePool>
+      </graph>
+      <graph id='6'>
+       <linePool>
+        <vertexPool>
+         <vertex id='7' x='14.352959' y='1.8254261' />
+         <vertex id='8' x='14.387394' y='10.347687' />
+         <vertex id='9' x='14.387396' y='16.964981' />
+        </vertexPool>
+        <rmolnar id='5' v1='7' v2='8' c1='7' c2='9' />
+        <rmolnar id='6' v1='8' v2='9' c1='7' c2='9' />
+       </linePool>
+      </graph>
+      <graph id='7'>
+       <linePool>
+        <vertexPool>
+         <vertex id='5' x='21.37721' y='0.42176247' />
+         <vertex id='6' x='21.446075' y='2.0259533' />
+        </vertexPool>
+        <rmolnar id='3' v1='5' v2='6' c1='5' c2='6' />
+       </linePool>
+      </graph>
+      <graph id='8'>
+       <linePool>
+        <vertexPool>
+         <vertex id='5' x='21.446074' y='6.33721' />
+         <vertex id='6' x='21.446077' y='17.466286' />
+        </vertexPool>
+        <rmolnar id='3' v1='5' v2='6' c1='5' c2='6' />
+       </linePool>
+      </graph>
+      <graph id='9'>
+       <linePool>
+        <vertexPool>
+         <vertex id='17' x='28.608067' y='8.442712' />
+         <vertex id='16' x='26.610973' y='17.265759' />
+         <vertex id='19' x='28.608065' y='17.466286' />
+         <vertex id='18' x='24.200693' y='7.941402' />
+         <vertex id='21' x='24.269558' y='5.6353807' />
+         <vertex id='20' x='24.235123' y='17.366028' />
+         <vertex id='15' x='26.610975' y='7.2395725' />
+        </vertexPool>
+        <rmolnar id='17' v1='20' v2='18' c1='20' c2='18' />
+        <bezier id='16' v1='19' v2='17' c1x='28.608067' c1y='11.350311' c2x='28.608063' c2y='13.957121' />
+        <bezier id='18' v1='18' v2='21' c1x='24.235123' c1y='5.6353793' c2x='24.23512' c2y='6.0364237' />
+        <bezier id='13' v1='15' v2='16' c1x='26.645407' c1y='9.946643' c2x='26.576544' c2y='14.358171' />
+        <bezier id='14' v1='17' v2='15' c1x='28.160444' c1y='5.033807' c2x='27.402922' c2y='4.9335437' />
+        <bezier id='15' v1='18' v2='15' c1x='25.336967' c1y='5.334593' c2x='25.853456' c2y='5.1340685' />
+       </linePool>
+      </graph>
+      <graph id='10'>
+       <linePool>
+        <vertexPool>
+         <vertex id='5' x='31.156078' y='10.848999' />
+         <vertex id='6' x='31.224945' y='1.2238531' />
+        </vertexPool>
+        <bezier id='3' v1='5' v2='6' c1x='31.259377' c1y='3.5298762' c2x='31.224941' c2y='4.632763' />
+       </linePool>
+      </graph>
+      <graph id='11'>
+       <linePool>
+        <vertexPool>
+         <vertex id='5' x='31.156086' y='17.867334' />
+         <vertex id='6' x='31.121647' y='14.558695' />
+        </vertexPool>
+        <bezier id='3' v1='5' v2='6' c1x='31.156082' c1y='15.360786' c2x='31.190514' c2y='15.862101' />
+       </linePool>
+      </graph>
+     </graphPool>
+    </layer>
+   </layerPool>
+  </design>
+  <imagePool>
+   <image id='1' zDepth='100' path='/Users/rmolnar/acclaim.jpg' x='16.041092' y='10.028928' xScale='1.1810001' yScale='1.1810001' rotate='0.0' />
+  </imagePool>
+ </rxml>
